@@ -1,3 +1,3 @@
-# HIA302
+# HIA302 Individual Project
 
 Hi
